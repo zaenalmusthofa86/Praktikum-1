@@ -120,7 +120,8 @@ int main()
     			  cout<<"\ntotal="<<total;
  			}
    		   return 0;
-```		}
+		}
+```
 -Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-1/blob/master/Latihan4.png)
