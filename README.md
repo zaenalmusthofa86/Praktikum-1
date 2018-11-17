@@ -1,10 +1,8 @@
-# Praktikum-1
+# Praktikum_1
 
 
-# Praktikum-1
-
-
-#Latihan pertama (Membuat perhitungan Luas persegi panjang)
+# Latihan pertama (Membuat perhitungan Luas persegi panjang)
+```
 -Mendeklarasikan variabel int p,l sebagai variabel input dan variabel L sebagai variabel hasil
 -Menghitung luas dengan rumus L = p*l
 -Menampilkan hasilnya kelayar << cout" hasilnya adalah : " << L << endl;
@@ -18,11 +16,13 @@ int main()
            L= p*l;
            cout<< "Luasnya adalah :" << L << endl;
 	}
+```
 -Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-1/blob/master/Latihan1.png)
 
-#Latihan kedua (Membuat penentuan bilagan ganjil dan genap)
+# Latihan kedua (Membuat penentuan bilagan ganjil dan genap)
+```
 -Mendeklariskan variabel int x sebagai variabel input
 -Memasukan nilai x
 -Menentukan nilai genap dan ganjil dengan rumus if (x%2==0)
@@ -44,11 +44,13 @@ int main()
     	  cout<<"Bilangan yang anda masukan adalah Ganjil";
     	  return 0;
 	}
+```
 -Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-1/blob/master/Latihan2.png)
 
-#Latihan Ketiga (Menentukan nilai terbesar dan terkecil dari nilai yang di input)
+# Latihan Ketiga (Menentukan nilai terbesar dan terkecil dari nilai yang di input)
+```
 -Mendeklarasikan variabel int i untuk pembatasan inputan, variabel n,nilai untuk inputan
 -Variabel max,min untuk pembatasan nilai
 -Membuat perintah for i untuk menentukan banyak nilai yang akan dibandingkan
@@ -86,11 +88,13 @@ int main()
    		}
     		  cout << "Nilai Terbesar adalah:" <<max<< "\nNilai Terkecil adalah:"<<min<< endl;
    		 return 0;
+```
 -Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-1/blob/master/Latihan3.png)
  
-#Latihan Keempat (Membuat perulangan penjumlahan)
+# Latihan Keempat (Membuat perulangan penjumlahan)
+```
 -Mendeklarasikan variabel int x sebagai batasan inputan nilai
 -Mendeklarasikan variabel nilai,bil sebagai inputan
 -Mendeklarasikan total sebagai variabel hasil
@@ -116,9 +120,8 @@ int main()
     			  cout<<"\ntotal="<<total;
  			}
    		   return 0;
-		}
+```		}
 -Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-1/blob/master/Latihan4.png)
-
 
